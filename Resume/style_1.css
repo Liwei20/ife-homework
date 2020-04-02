@@ -1,0 +1,21 @@
+.inline_box {
+    display: inline;
+    margin-right: 20px;
+}
+
+.inline_box .title_3 {
+    margin-right: 5px;
+}
+
+.inline_box p {
+    display: inline;
+}
+
+.box_2 {
+    line-height: 5px;
+    margin-bottom: 30px;
+}
+
+.title_3 {
+    font-weight: 600;
+}
